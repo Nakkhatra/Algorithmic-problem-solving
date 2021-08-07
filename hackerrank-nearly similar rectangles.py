@@ -97,7 +97,7 @@ def timecounter(func1, func2, number):
         
     return time
 
-print(timecounter(nearlySimilar, nearlySimilarNaive, number= 10000))
+print(timecounter(nearlySimilar, nearlySimilarNaive, number= 1000))
 
 # =============================================================================
 #Some testcases................................................................
